@@ -1,0 +1,2 @@
+# Multi-Task-Vision-System-Simultaneous-Object-Detection-and-Semantic-Segmentation
+This project demonstrates a lightweight deep learning network capable of performing object detection and semantic segmentation simultaneously. Built using MobileNetV2 and TensorFlow, the model is optimized for real-time applications on mobile devices. It employs SSDLite for object detection and DeepLabV3+ for semantic segmentation.
